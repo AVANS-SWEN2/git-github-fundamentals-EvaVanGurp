@@ -1,3 +1,5 @@
+# Eva van Gurp - evavangurp - e.vangurp1@student.avans.nl
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
